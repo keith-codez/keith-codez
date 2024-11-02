@@ -1,6 +1,6 @@
-- Greetings dear friends! My name is Keith.
-- 👀 I’m interested in how things work.  
-- 🌱 I’m currently learning how to produce a webscraping automation tool using selenium.
-- 💞️ I’m looking to collaborate on anything and everything related to processing data using python.
+- Greetings My name is Keith.
+- 👀 I’m interested in AI, Automation, and Web Development.  
+- 🌱 I’m currently learning how to intergrate automation tools with AI using API's such as those provided by openai.
+- 💞️ I’m looking to collaborate on anything and everything related to automation, data processing and web development.
 - Fell free to reach me on email: mwanazk@gmail.com. 
   
